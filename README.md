@@ -7,7 +7,7 @@ This is some dummy markdown file:
 
 And here comes some content from an SVG figure:
 
-![Alt text](./test-figure.svg)
-<img src="./test-figure.svg">
+![Alt text](./Test-figure.svg)
+<img src="./Test-figure.svg">
 
 Continued blah blah
