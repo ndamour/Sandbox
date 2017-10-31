@@ -10,3 +10,8 @@ And here comes some content from an SVG figure:
 ![Figure showing some diagram](./Test-figure.svg)
 
 Continued blah blah
+
+
+J'ajoute poupou
+![Poupou](./poupou.svg)
+
